@@ -1,1 +1,4 @@
 sample
+git add . 
+git commit -m "Initial Status"
+git status
